@@ -1,3 +1,3 @@
-# Aus-RainPrediction-Classifcation-Model
+# Aus-RainPrediction-Classification-Model
 
-Description of model
+Description of the classification model
